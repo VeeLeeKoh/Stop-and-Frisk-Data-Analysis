@@ -1,5 +1,5 @@
 # NYPD Stop & Frisk Data Analysis 
-#### Vee Lee Koh, Malik Ouda, Noah Placke and Clay Roberts <a href='https://github.com/VeeLeeKoh'>Vee Lee Koh</a>, <a href='https://github.com/malikouda'>Malik Ouda</a>, <a href='https://github.com/noahplacke'>Noah Placke</a> and Clay Roberts
+#### <a href='https://github.com/VeeLeeKoh'>Vee Lee Koh</a>, <a href='https://github.com/malikouda'>Malik Ouda</a>, <a href='https://github.com/noahplacke'>Noah Placke</a> and Clay Roberts
 ---
 ### Classification of an individual being frisked using stop and frisk data from NYPD
 This stop, question and frisk dataset used for this analysis is provided by the New York Police Department (NYPD) and contains information about the "stop, question, and frisk" program implemented by the NYPD (Dataset source included below). It is a controversial and highly criticized policy in which a police officer suspecting someone of wrongdoing is able to stop them, question them, and search them for a weapon. The policy has been highly criticized for being a form of racial profiling.
